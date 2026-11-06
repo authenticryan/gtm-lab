@@ -1,0 +1,8 @@
+# Copy to companies.yaml (gitignored) and list the companies you want to watch.
+# job_board: greenhouse | lever | ashby, plus the board's slug from its public URL.
+companies:
+  - name: Example Co
+    domain: example.com
+    job_board: greenhouse
+    board_slug: exampleco
+    news_query: "Example Co funding OR launch"
